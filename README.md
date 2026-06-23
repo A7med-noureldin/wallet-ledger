@@ -91,7 +91,7 @@ Server starts on `http://localhost:8080`.
 
 ```json
 // 200 OK
-{ "EGP": 5000, "USD": 0 }
+{ "EGP": 5000 }
 ```
 
 ---
